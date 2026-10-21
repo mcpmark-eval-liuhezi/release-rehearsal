@@ -1,0 +1,11 @@
+name: Rehearsal
+
+on:
+  workflow_dispatch:
+
+jobs:
+  confirm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo confirmation
+        run: echo "Rehearsal workflow triggered manually — all good."
