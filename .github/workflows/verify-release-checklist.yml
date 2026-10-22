@@ -1,0 +1,16 @@
+name: Verify release checklist
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  verify-release-checklist:
+    name: verify-release-checklist
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deliberately fail for rehearsal triage
+        run: |
+          echo "This step fails on purpose so the release rehearsal has a broken build to triage."
+          exit 1
