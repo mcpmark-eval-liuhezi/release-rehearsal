@@ -1,5 +1,8 @@
 # Handoff
 
-Sandbox for the release walkthrough rehearsal.
+Sandbox handoff notes for the release rehearsal walkthrough.
 
-Stage: add the handoff file to the default branch while the pull request branch already carries the notes-change commit.
+- Branch: `chore/rehearsal-notes`
+- Pull request: #24 (squash merge)
+- Stale-PR rehearsal: a commit was landed on `main` while the PR was still open
+- Sync verified: \"Branch synced with the default branch for the rehearsal.\"
