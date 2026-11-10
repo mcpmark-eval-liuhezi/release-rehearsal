@@ -1,2 +1,0 @@
-# Release rehearsal
-Stage: setup
