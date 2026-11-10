@@ -1,6 +1,5 @@
-Sandbox handoff for the release rehearsal walkthrough:
+# Handoff
 
-- Default branch: main
-- Pull request: #24 ("Rehearsal: update notes stage", branch chore/rehearsal-notes)
-- STALE-PR rehearsal: a commit was landed on main (this one) while the PR was still open
-- Sync verified: "Branch synced with the default branch for the rehearsal."
+Sandbox for the release walkthrough rehearsal.
+
+Stage: add the handoff file to the default branch while the pull request branch already carries the notes-change commit.
