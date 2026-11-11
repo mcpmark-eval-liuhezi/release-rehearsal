@@ -1,8 +1,9 @@
-# Handoff
+# Handoff for release rehearsal
 
-Sandbox handoff notes for the release rehearsal walkthrough.
+Quick reference notes for the team walkthrough:
 
-- Branch: chore/rehearsal-notes
-- Pull request: #24 (unchanged — rehearsal target)
-- Stale-PR rehearsal: a commit was landed on main while the PR is still open
-- Sync verified: "Branch synced with the default branch for the rehearsal."
+- Chore branch: `chore/rehearsal-notes`
+- Default branch: `main`
+- PR to review: #27
+
+Land this file directly on `main` to simulate a base-branch change while the PR is open.
