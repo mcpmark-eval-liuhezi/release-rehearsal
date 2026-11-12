@@ -6,5 +6,5 @@ This file was added to the default branch during the rehearsal setup phase to si
 - Branch refresh: in progress
 - Security advisories: checked separately
 
-## Next steps
-- Confirm the PR head branch picks up the latest base changes after refresh.
+##Next steps
+- Merge the rehearsal PR once the branch sync comment is confirmed.
