@@ -1,5 +1,11 @@
-# Handoff notes
+# Handoff Notes
 
-This file was added directly to the default branch (main) during the release-rehearsal walkthrough to simulate late base-branch changes while a pull request is still open.
+This file was added directly to the default branch (main) after pull request #34 was opened, to simulate base-branch drift during the rehearsal.
 
-It exists so that the rehearsal can demonstrate the stale-PR scenario: a new commit lands on main after the PR was created, and the PR branch then needs to be refreshed before it can be merged cleanly.
+It exists so the pull request branch has something new to sync against when we refresh it.
+
+## Status for the live walkthrough
+
+- Handoff document is present on `main`.
+- Pull request #34 ("Rehearsal: update notes stage") is open from `chore/rehearsal-notes` into `main`.
+- The PR branch will be refreshed (updated) before merging to bring in the latest base commit.
