@@ -1,5 +1,6 @@
 # Handoff
 
-Rehearsal handoff notes for the release checklist walkthrough.
+Handoff notes for the release rehearsal sandbox.
 
-This commit landed directly on `main` after pull request #31 was opened, simulating a stale branch: the base branch received new work while `chore/rehearsal-notes` was still out of date.
+This file was added on the default branch after the pull request was opened,
+recreating the stale-branch situation for rehearsal purposes.
