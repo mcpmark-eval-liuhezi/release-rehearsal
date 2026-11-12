@@ -1,3 +1,5 @@
 # Handoff
 
-This file was added on the default branch during the PR lifecycle rehearsal to simulate a stale-branch scenario: the base branch received a new commit after the pull request was opened.
+Rehearsal handoff notes for the release checklist walkthrough.
+
+This commit landed directly on `main` after the pull request was opened, which simulates a stale branch: the base branch received new work while `chore/rehearsal-notes` was still out of date.
