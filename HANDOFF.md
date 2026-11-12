@@ -1,5 +1,5 @@
-# Handoff Notes
+# Handoff
 
-Rehearsal handoff file landed directly on the default branch during the stale-PR drill.
+Rehearsal handoff notes for the release checklist walkthrough.
 
-This commit exists to simulate base-branch activity while the chore/rehearsal-notes branch is open, so the pull request enters a stale state and needs a branch refresh.
+This commit landed directly on `main` after pull request #31 was opened, simulating a stale branch: the base branch received new work while `chore/rehearsal-notes` was still out of date.
