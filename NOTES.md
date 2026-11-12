@@ -1,2 +1,2 @@
 # Release rehearsal
-Stage: setup
+Stage: review
