@@ -1,8 +1,10 @@
-# Handoff notes
+# Handoff Notes
 
-This file was added to the default branch during the release rehearsal to demonstrate the stale-PR scenario: a direct commit to `main` while an open pull request branch lags behind.
+This file was added to the default branch during the release-rehearsal sandbox drill.
+It marks the point at which the base branch moved ahead of the chore/rehearsal-notes branch,
+reproducing the stale-pull-request scenario for the walkthrough.
 
-- Repository: release-rehearsal
-- Branch: chore/rehearsal-notes
-- Pull request: #33
-- Purpose: rehearsal of the branch-sync and merge steps before the live walkthrough.
+## Status
+- Base branch (main) has one commit ahead of chore/rehearsal-notes.
+- The pull request has been refreshed to pick up the latest base changes.
+- A sync comment was posted on the pull request to document the refresh.
